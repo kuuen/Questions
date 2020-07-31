@@ -1,0 +1,579 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2020-05-08 16:03+0900\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/QuestionKindsController.php:54
+#: Controller/QuestionKindsController.php:78
+msgid "The question kind has been saved."
+msgstr ""
+
+#: Controller/QuestionKindsController.php:58
+#: Controller/QuestionKindsController.php:82
+msgid "The question kind could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/QuestionKindsController.php:99
+msgid "The question kind has been deleted."
+msgstr ""
+
+#: Controller/QuestionKindsController.php:101
+msgid "The question kind could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/QuestionsController.php:57
+#: Controller/QuestionsController.php:82
+msgid "The question has been saved."
+msgstr ""
+
+#: Controller/QuestionsController.php:61
+#: Controller/QuestionsController.php:86
+msgid "The question could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/QuestionsController.php:104
+msgid "The question has been deleted."
+msgstr ""
+
+#: Controller/QuestionsController.php:106
+msgid "The question could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/Layout/error.ctp:35
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: Template/QuestionKinds/add.ctp:9
+#: Template/QuestionKinds/edit.ctp:9
+#: Template/QuestionKinds/index.ctp:9
+#: Template/QuestionKinds/index.ctp:24
+#: Template/QuestionKinds/view.ctp:9
+#: Template/QuestionKinds/view.ctp:54
+#: Template/Questions/add.ctp:9
+#: Template/Questions/edit.ctp:9
+#: Template/Questions/index.ctp:9
+#: Template/Questions/index.ctp:30
+#: Template/Questions/view.ctp:9
+msgid "Actions"
+msgstr ""
+
+#: Template/QuestionKinds/add.ctp:10
+#: Template/QuestionKinds/edit.ctp:16
+#: Template/QuestionKinds/view.ctp:12
+#: Template/Questions/add.ctp:11
+#: Template/Questions/edit.ctp:17
+#: Template/Questions/index.ctp:11
+#: Template/Questions/view.ctp:14
+msgid "List Question Kinds"
+msgstr ""
+
+#: Template/QuestionKinds/add.ctp:11
+#: Template/QuestionKinds/edit.ctp:17
+#: Template/QuestionKinds/index.ctp:11
+#: Template/QuestionKinds/view.ctp:14
+#: Template/Questions/add.ctp:10
+#: Template/Questions/edit.ctp:16
+#: Template/Questions/view.ctp:12
+msgid "List Questions"
+msgstr ""
+
+#: Template/QuestionKinds/add.ctp:12
+#: Template/QuestionKinds/edit.ctp:18
+#: Template/QuestionKinds/index.ctp:12
+#: Template/QuestionKinds/view.ctp:15
+#: Template/Questions/index.ctp:10
+#: Template/Questions/view.ctp:13
+msgid "New Question"
+msgstr ""
+
+#: Template/QuestionKinds/add.ctp:18
+msgid "Add Question Kind"
+msgstr ""
+
+#: Template/QuestionKinds/add.ctp:23
+#: Template/QuestionKinds/edit.ctp:29
+#: Template/Questions/add.ctp:30
+#: Template/Questions/edit.ctp:36
+#: View/Helper/FormHelper.php:2030
+msgid "Submit"
+msgstr ""
+
+#: Template/QuestionKinds/edit.ctp:11
+#: Template/QuestionKinds/index.ctp:37
+#: Template/QuestionKinds/view.ctp:72
+#: Template/Questions/edit.ctp:11
+#: Template/Questions/index.ctp:49
+msgid "Delete"
+msgstr ""
+
+#: Template/QuestionKinds/edit.ctp:13
+#: Template/QuestionKinds/index.ctp:37
+#: Template/QuestionKinds/view.ctp:11
+#: Template/QuestionKinds/view.ctp:72
+#: Template/Questions/edit.ctp:13
+#: Template/Questions/index.ctp:49
+#: Template/Questions/view.ctp:11
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/QuestionKinds/edit.ctp:24
+#: Template/QuestionKinds/view.ctp:10
+msgid "Edit Question Kind"
+msgstr ""
+
+#: Template/QuestionKinds/index.ctp:10
+#: Template/QuestionKinds/view.ctp:13
+#: Template/Questions/add.ctp:12
+#: Template/Questions/edit.ctp:18
+#: Template/Questions/index.ctp:12
+#: Template/Questions/view.ctp:15
+msgid "New Question Kind"
+msgstr ""
+
+#: Template/QuestionKinds/index.ctp:16
+msgid "Question Kinds"
+msgstr ""
+
+#: Template/QuestionKinds/index.ctp:35
+#: Template/QuestionKinds/view.ctp:70
+#: Template/Questions/index.ctp:47
+#: View/Helper/PaginatorHelper.php:1271
+msgid "View"
+msgstr ""
+
+#: Template/QuestionKinds/index.ctp:36
+#: Template/QuestionKinds/view.ctp:71
+#: Template/Questions/index.ctp:48
+msgid "Edit"
+msgstr ""
+
+#: Template/QuestionKinds/index.ctp:45
+#: Template/Questions/index.ctp:57
+msgid "first"
+msgstr ""
+
+#: Template/QuestionKinds/index.ctp:46
+#: Template/Questions/index.ctp:58
+msgid "previous"
+msgstr ""
+
+#: Template/QuestionKinds/index.ctp:48
+#: Template/Questions/index.ctp:60
+msgid "next"
+msgstr ""
+
+#: Template/QuestionKinds/index.ctp:49
+#: Template/Questions/index.ctp:61
+msgid "last"
+msgstr ""
+
+#: Template/QuestionKinds/index.ctp:51
+#: Template/Questions/index.ctp:63
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr ""
+
+#: Template/QuestionKinds/view.ctp:11
+msgid "Delete Question Kind"
+msgstr ""
+
+#: Template/QuestionKinds/view.ctp:22
+msgid "Name"
+msgstr ""
+
+#: Template/QuestionKinds/view.ctp:26
+#: Template/QuestionKinds/view.ctp:43
+#: Template/Questions/view.ctp:46
+msgid "Id"
+msgstr ""
+
+#: Template/QuestionKinds/view.ctp:30
+#: Template/QuestionKinds/view.ctp:52
+#: Template/Questions/view.ctp:54
+msgid "Created"
+msgstr "作成日時"
+
+#: Template/QuestionKinds/view.ctp:34
+#: Template/QuestionKinds/view.ctp:53
+#: Template/Questions/view.ctp:58
+msgid "Modified"
+msgstr ""
+
+#: Template/QuestionKinds/view.ctp:39
+msgid "Related Questions"
+msgstr ""
+
+#: Template/QuestionKinds/view.ctp:44
+msgid "Question Kind Id"
+msgstr ""
+
+#: Template/QuestionKinds/view.ctp:45
+#: Template/Questions/view.ctp:26
+msgid "Question"
+msgstr ""
+
+#: Template/QuestionKinds/view.ctp:46
+#: Template/Questions/view.ctp:30
+msgid "Choice1"
+msgstr ""
+
+#: Template/QuestionKinds/view.ctp:47
+#: Template/Questions/view.ctp:34
+msgid "Choice2"
+msgstr ""
+
+#: Template/QuestionKinds/view.ctp:48
+#: Template/Questions/view.ctp:38
+msgid "Choice3"
+msgstr ""
+
+#: Template/QuestionKinds/view.ctp:49
+#: Template/Questions/view.ctp:42
+msgid "Choice4"
+msgstr ""
+
+#: Template/QuestionKinds/view.ctp:50
+#: Template/Questions/view.ctp:50
+msgid "Answer"
+msgstr ""
+
+#: Template/QuestionKinds/view.ctp:51
+#: Template/Questions/view.ctp:63
+msgid "Explanation"
+msgstr ""
+
+#: Template/Questions/add.ctp:18
+msgid "Add Question"
+msgstr ""
+
+#: Template/Questions/edit.ctp:24
+#: Template/Questions/view.ctp:10
+msgid "Edit Question"
+msgstr ""
+
+#: Template/Questions/index.ctp:16
+msgid "Questions"
+msgstr ""
+
+#: Template/Questions/view.ctp:11
+msgid "Delete Question"
+msgstr ""
+
+#: Template/Questions/view.ctp:22
+msgid "Question Kind"
+msgstr ""
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:500
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:181
+#: Http/Middleware/CsrfProtectionMiddleware.php:228
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:185
+#: Http/Middleware/CsrfProtectionMiddleware.php:232
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:301
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:303
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: Http/Response.php:2673
+msgid "The requested file contains `..` and will not be read."
+msgstr ""
+
+#: Http/Response.php:2694
+msgid "The requested file was not found"
+msgstr ""
+
+#: I18n/Number.php:89
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:91
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:93
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:95
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:87
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:154
+#: I18n/RelativeTimeFormatter.php:332
+msgid "about a day ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:155
+#: I18n/RelativeTimeFormatter.php:333
+msgid "about a week ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:156
+#: I18n/RelativeTimeFormatter.php:334
+msgid "about a month ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:157
+#: I18n/RelativeTimeFormatter.php:335
+msgid "about a year ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171
+#: I18n/RelativeTimeFormatter.php:346
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172
+#: I18n/RelativeTimeFormatter.php:347
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:173
+#: I18n/RelativeTimeFormatter.php:348
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:174
+#: I18n/RelativeTimeFormatter.php:349
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47
+#: I18n/RelativeTimeFormatter.php:126
+#: I18n/RelativeTimeFormatter.php:316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51
+#: I18n/RelativeTimeFormatter.php:129
+#: I18n/RelativeTimeFormatter.php:319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57
+#: I18n/RelativeTimeFormatter.php:132
+#: I18n/RelativeTimeFormatter.php:322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59
+#: I18n/RelativeTimeFormatter.php:135
+#: I18n/RelativeTimeFormatter.php:325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64
+#: I18n/RelativeTimeFormatter.php:138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68
+#: I18n/RelativeTimeFormatter.php:141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72
+#: I18n/RelativeTimeFormatter.php:144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ORM/RulesChecker.php:56
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:103
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:127
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:934
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:2437
+#: View/Form/ArrayContext.php:226
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:2459
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:2610
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1108
+msgid "Edit {0}"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1110
+msgid "New {0}"
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:818
+msgid "Home"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:539
+msgid "January"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "February"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "March"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "April"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "May"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "June"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "July"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "August"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "September"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "October"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "November"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "December"
+msgstr ""
+
